@@ -1,3 +1,10 @@
+Resources:
+https://www.nginx.com/resources/glossary/application-server-vs-web-server/
+https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04
+https://docs.gunicorn.org/en/latest/run.html
+https://werkzeug.palletsprojects.com/en/0.14.x/routing/
+https://upstart.ubuntu.com/cookbook/
+
 # 0. Set up development with Python
 
 Let’s serve what you built for [AirBnB clone v2](https://github.com/SlamChillz/AirBnB_clone_v2) - Web framework on `web-01`.
